@@ -1,0 +1,26 @@
+.lead__caption {
+    width: 158px;
+    height: 14px;
+    color: white;
+    font-size: 10px;
+    line-height: 14px;
+    letter-spacing: 1.5px;
+    margin: 8px 0 0 0;
+    position: absolute;
+    bottom: -14px;    
+    left: 0;
+    font-weight: 400;
+}
+
+@media screen and (max-width: 768px) {
+    .lead__caption {
+        left: 3.1%;
+        }
+    }         
+
+@media screen and (max-width: 768px) {
+    .lead__caption {
+        bottom: -36px;
+        left: 5%;
+        }
+    }     
