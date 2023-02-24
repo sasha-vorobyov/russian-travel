@@ -9,7 +9,7 @@
     font-weight: 400;
 }
 
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 1279px) {
     .place__paragraph {
         max-width: 100%;
         width: fit-content;
@@ -17,7 +17,7 @@
         }
     }       
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 1023px) {
     .place__paragraph {
             max-width: 100%;
             width: fit-content;
@@ -27,7 +27,7 @@
             }
         }    
 
-@media screen and (max-width: 425px) {
+@media screen and (max-width: 767px) {
     .place__paragraph {
         max-width: 100%;
         width: fit-content;

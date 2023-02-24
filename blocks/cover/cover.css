@@ -12,7 +12,7 @@
     align-items: center;
 }
 
-@media screen and (max-width: 425px) {
+@media screen and (max-width: 767px) {
     .cover {
         min-height: 200px;
         align-self: center;

@@ -6,20 +6,20 @@
     padding-bottom: 92px;
 }
 
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 1279px) {
     .places {
         width: 100%;
         }
     }     
     
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 1023px) {
     .places {
         align-self: center;
         width: 93.75%;
         }
     }     
 
-@media screen and (max-width: 425px) {
+@media screen and (max-width: 767px) {
     .places {
         width: 100%;
         }
