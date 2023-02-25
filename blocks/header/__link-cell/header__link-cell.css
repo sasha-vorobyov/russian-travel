@@ -1,5 +1,6 @@
 .header__link-cell {
-    display: flex;
-    gap: 18px;
-    list-style-type:none;
+  display: flex;
+  gap: 18px;
+  list-style-type:none;
+  margin: 0;
 }

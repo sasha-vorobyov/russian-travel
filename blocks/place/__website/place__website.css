@@ -1,18 +1,16 @@
 .place__website {
-    width: 100%;
-    color: white;
-    font-size: 18px;
-    line-height: 163%;
-    text-decoration: none;
-    grid-area: link;
-    align-self: end;
-    margin: 0 auto;
-    padding-bottom: 48px;
+  width: 100%;
+  color: white;
+  font-size: 18px;
+  line-height: 163%;
+  text-decoration: none;
+  align-self: end;
+  margin: 0 auto;
 }
 
 @media screen and (max-width: 767px) {
-    .place__website {
-        padding: 0 5% 0 5%;
-        box-sizing: border-box;
-        }
-    }      
+  .place__website {
+    padding: 0 5% 0 5%;
+    box-sizing: border-box;
+  }
+}

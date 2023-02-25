@@ -1,14 +1,19 @@
 .header__lang-link {
-    width: 30px;
-    height: 28px;
-    color: white;
-    font-weight: 400;
-    font-size: 24px;
-    text-decoration: none;
+  width: 30px;
+  color: white;
+  font-weight: 400;
+  font-size: 24px;
+  text-decoration: none;
+  opacity: 1;
+}
+
+.header__lang-link:hover {
+  transition: opacity 1s;
+  opacity: 0.8;
 }
 
 @media screen and (max-width: 767px) {
-    .header__lang-link {
-       font-size: 18px;
-   }
-} 
+  .header__lang-link {
+    font-size: 18px;
+  }
+}

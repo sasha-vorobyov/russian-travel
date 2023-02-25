@@ -1,13 +1,6 @@
 .intro__list-text {
-    color: white;
-    font-size: 12px;
-    line-height: 18px;
-    white-space: nowrap;
+  color: white;
+  font-size: 12px;
+  line-height: 18px;
+  white-space: nowrap;
 }
-
-@media screen and (max-width: 767px) {
-    .intro__list-text {
-        font-size: 12px;
-        line-height: 18px;
-        }
-    } 

@@ -1,27 +1,19 @@
 .content {
-    display: flex;
-    align-items: center;
-    flex-direction: column;
-    margin: 0 auto;
-    max-width: 93%;
-
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  margin: 0 auto;
+  max-width: 93%;
 }
 
 @media screen and (max-width: 1279px) {
-    .content {
-        max-width: 90.6%;
-        }
-    }    
+  .content {
+    max-width: 90.6%;
+  }
+}
 
 @media screen and (max-width: 1023px) {
-    .content {
-        max-width: 100%;
-        }
-    }    
-
-
-@media screen and (max-width: 767px) {
-    .content {
-        max-width: 100%;
-        }
-    }    
+  .content {
+    max-width: 100%;
+  }
+}

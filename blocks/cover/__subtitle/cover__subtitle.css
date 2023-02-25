@@ -6,11 +6,16 @@
   text-align: center;
   margin: 0;
   font-weight: 400;
+  max-width: 360px;
+  padding-top: 32px;
+  z-index: 3;
 }
 
 @media screen and (max-width: 767px) {
-    .cover__subtitle {
-      font-size: 14px;
-      line-height: 16px;
-        }
-    }  
+  .cover__subtitle {
+  font-size: 14px;
+  line-height: 16px;
+  max-width: 257px;
+  padding-top: 16px;
+  }
+}
