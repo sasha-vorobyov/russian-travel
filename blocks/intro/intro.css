@@ -18,6 +18,7 @@
   .intro {
     width: 93.75%;
     align-self: center;
+    padding-top: 88px;
   }
 }
 
@@ -25,5 +26,6 @@
   .intro {
     align-self: center;
     width: 90%;
+    padding-top: 64px;
   }
 }
