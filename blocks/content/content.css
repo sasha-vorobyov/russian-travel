@@ -3,12 +3,12 @@
   align-items: center;
   flex-direction: column;
   margin: 0 auto;
-  max-width: 93%;
+  width: 93%;
 }
 
 @media screen and (max-width: 1279px) {
   .content {
-    max-width: 100%;
+    width: 100%;
   }
 }
 
